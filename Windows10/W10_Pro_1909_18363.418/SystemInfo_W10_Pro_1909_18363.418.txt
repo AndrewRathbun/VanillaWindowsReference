@@ -1,0 +1,51 @@
+Host Name:                 DESKTOP-SMTAKLI
+OS Name:                   Microsoft Windows 10 Pro
+OS Version:                10.0.18363 N/A Build 18363
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          Windows User
+Registered Organization:
+Product ID:                00330-80000-00000-AA743
+Original Install Date:     11/19/2021, 10:02:20 PM
+System Boot Time:          11/19/2021, 10:03:40 PM
+System Manufacturer:       VMware, Inc.
+System Model:              VMware7,1
+System Type:               x64-based PC
+Processor(s):              2 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 141 Stepping 1 GenuineIntel ~2304 Mhz
+                           [02]: Intel64 Family 6 Model 141 Stepping 1 GenuineIntel ~2304 Mhz
+BIOS Version:              VMware, Inc. VMW71.00V.18452719.B64.2108091906, 8/9/2021
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC-05:00) Eastern Time (US & Canada)
+Total Physical Memory:     2,047 MB
+Available Physical Memory: 1,069 MB
+Virtual Memory: Max Size:  3,199 MB
+Virtual Memory: Available: 1,451 MB
+Virtual Memory: In Use:    1,748 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              N/A
+Hotfix(s):                 6 Hotfix(s) Installed.
+                           [01]: KB4515871
+                           [02]: KB4513661
+                           [03]: KB4516115
+                           [04]: KB4517245
+                           [05]: KB4521863
+                           [06]: KB4517389
+Network Card(s):           2 NIC(s) Installed.
+                           [01]: Intel(R) 82574L Gigabit Network Connection
+                                 Connection Name: Ethernet0
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.145.254
+                                 IP address(es)
+                                 [01]: 192.168.145.164
+                                 [02]: fe80::70a8:6d83:b36c:9ba0
+                           [02]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Bluetooth Network Connection
+                                 Status:          Media disconnected
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
