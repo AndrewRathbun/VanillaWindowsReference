@@ -1,0 +1,80 @@
+
+Host Name:                 WIN-5U5LHPIJ8R7
+OS Name:                   Microsoft Windows 8.1 Pro
+OS Version:                6.3.9600 N/A Build 9600
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          Windows User
+Registered Organization:   
+Product ID:                00260-00000-00001-AA510
+Original Install Date:     11/19/2021, 10:52:42 PM
+System Boot Time:          11/19/2021, 10:53:46 PM
+System Manufacturer:       VMware, Inc.
+System Model:              VMware Virtual Platform
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 141 Stepping 1 GenuineIntel ~2304 Mhz
+BIOS Version:              Phoenix Technologies LTD 6.00, 11/12/2020
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC-05:00) Eastern Time (US & Canada)
+Total Physical Memory:     2,047 MB
+Available Physical Memory: 1,129 MB
+Virtual Memory: Max Size:  3,199 MB
+Virtual Memory: Available: 1,796 MB
+Virtual Memory: In Use:    1,403 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              N/A
+Hotfix(s):                 35 Hotfix(s) Installed.
+                           [01]: KB2959936
+                           [02]: KB2919355
+                           [03]: KB2920189
+                           [04]: KB2931358
+                           [05]: KB2931366
+                           [06]: KB2937220
+                           [07]: KB2938772
+                           [08]: KB2939153
+                           [09]: KB2949621
+                           [10]: KB2954879
+                           [11]: KB2958262
+                           [12]: KB2958263
+                           [13]: KB2961072
+                           [14]: KB2962140
+                           [15]: KB2965142
+                           [16]: KB2965500
+                           [17]: KB2966407
+                           [18]: KB2967917
+                           [19]: KB2968599
+                           [20]: KB2971203
+                           [21]: KB2973351
+                           [22]: KB2975061
+                           [23]: KB2976627
+                           [24]: KB2976978
+                           [25]: KB2977629
+                           [26]: KB2978002
+                           [27]: KB2981580
+                           [28]: KB2987107
+                           [29]: KB2989647
+                           [30]: KB2998527
+                           [31]: KB2999226
+                           [32]: KB3000850
+                           [33]: KB3001237
+                           [34]: KB3003057
+                           [35]: KB3014442
+Network Card(s):           2 NIC(s) Installed.
+                           [01]: Intel(R) 82574L Gigabit Network Connection
+                                 Connection Name: Ethernet0
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.145.254
+                                 IP address(es)
+                                 [01]: 192.168.145.169
+                                 [02]: fe80::60a7:651d:37ee:577d
+                           [02]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Bluetooth Network Connection
+                                 Status:          Media disconnected
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
