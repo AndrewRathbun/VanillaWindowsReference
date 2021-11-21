@@ -1,0 +1,50 @@
+Host Name:                 DESKTOP-M287KOU
+OS Name:                   Microsoft Windows 10 Pro
+OS Version:                10.0.10586 N/A Build 10586
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          Windows User
+Registered Organization:
+Product ID:                00330-80000-00000-AA857
+Original Install Date:     11/20/2021, 11:17:09 PM
+System Boot Time:          11/20/2021, 11:18:22 PM
+System Manufacturer:       VMware, Inc.
+System Model:              VMware7,1
+System Type:               x64-based PC
+Processor(s):              2 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 141 Stepping 1 GenuineIntel ~2304 Mhz
+                           [02]: Intel64 Family 6 Model 141 Stepping 1 GenuineIntel ~2304 Mhz
+BIOS Version:              VMware, Inc. VMW71.00V.18452719.B64.2108091906, 8/9/2021
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC-05:00) Eastern Time (US & Canada)
+Total Physical Memory:     2,047 MB
+Available Physical Memory: 1,060 MB
+Virtual Memory: Max Size:  3,199 MB
+Virtual Memory: Available: 2,054 MB
+Virtual Memory: In Use:    1,145 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\DESKTOP-M287KOU
+Hotfix(s):                 5 Hotfix(s) Installed.
+                           [01]: KB3116278
+                           [02]: KB3139907
+                           [03]: KB3140768
+                           [04]: KB3142588
+                           [05]: KB3144756
+Network Card(s):           2 NIC(s) Installed.
+                           [01]: Intel(R) 82574L Gigabit Network Connection
+                                 Connection Name: Ethernet0
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.145.254
+                                 IP address(es)
+                                 [01]: 192.168.145.180
+                                 [02]: fe80::dd7e:2147:4084:1842
+                           [02]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Bluetooth Network Connection
+                                 Status:          Media disconnected
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
