@@ -1,0 +1,48 @@
+Host Name:                 DESKTOP-9P1396C
+OS Name:                   Microsoft Windows 10 Enterprise
+OS Version:                10.0.10586 N/A Build 10586
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          Windows User
+Registered Organization:
+Product ID:                00329-00000-00003-AA515
+Original Install Date:     20/11/2021, 23:19:38
+System Boot Time:          20/11/2021, 23:20:57
+System Manufacturer:       VMware, Inc.
+System Model:              VMware7,1
+System Type:               x64-based PC
+Processor(s):              2 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 141 Stepping 1 GenuineIntel ~2304 Mhz
+                           [02]: Intel64 Family 6 Model 141 Stepping 1 GenuineIntel ~2304 Mhz
+BIOS Version:              VMware, Inc. VMW71.00V.18452719.B64.2108091906, 09/08/2021
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-gb;English (United Kingdom)
+Input Locale:              en-gb;English (United Kingdom)
+Time Zone:                 (UTC-05:00) Eastern Time (US & Canada)
+Total Physical Memory:     2,047 MB
+Available Physical Memory: 1,082 MB
+Virtual Memory: Max Size:  3,199 MB
+Virtual Memory: Available: 2,014 MB
+Virtual Memory: In Use:    1,185 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\DESKTOP-9P1396C
+Hotfix(s):                 3 Hotfix(s) Installed.
+                           [01]: KB3116278
+                           [02]: KB3135173
+                           [03]: KB3136561
+Network Card(s):           2 NIC(s) Installed.
+                           [01]: Intel(R) 82574L Gigabit Network Connection
+                                 Connection Name: Ethernet0
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.145.254
+                                 IP address(es)
+                                 [01]: 192.168.145.181
+                                 [02]: fe80::6151:c7b8:8f27:1e6e
+                           [02]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Bluetooth Network Connection
+                                 Status:          Media disconnected
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
