@@ -1,4 +1,4 @@
-# Windows 10 (1809) Directory Listing
+# Windows 10 (1809) Build 17763.194 Directory Listing
 
 ## Actions Taken Prior to Generating Directory Listing
 
@@ -25,3 +25,7 @@ Yes, you may see these files as well as other files related to the user profile 
 ## Differences Between Previous Windows OS Version
 
 Differences go here *work in progress*
+
+# Official Documentation
+
+https://support.microsoft.com/en-us/topic/december-11-2018-kb4471332-os-build-17763-194-033f5756-5e3b-314f-a2e8-531d6fc21325
