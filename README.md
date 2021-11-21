@@ -7,7 +7,7 @@ Stay tuned!
 
 Below will track the filename of the ISO used with each version of Windows that is covered within this repo.
 
-## Windows
+## Windows (Consumer Editions)
 
 | OS                               | ISO Filename                                                                             |
 |----------------------------------|------------------------------------------------------------------------------------------|
