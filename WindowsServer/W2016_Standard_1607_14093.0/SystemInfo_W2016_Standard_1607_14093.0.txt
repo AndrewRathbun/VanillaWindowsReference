@@ -1,0 +1,43 @@
+Host Name:                 WIN-44DBOSDFNEV
+OS Name:                   Microsoft Windows Server 2016 Standard
+OS Version:                10.0.14393 N/A Build 14393
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Server
+OS Build Type:             Multiprocessor Free
+Registered Owner:          Windows User
+Registered Organization:
+Product ID:                00376-30000-00299-AA135
+Original Install Date:     11/20/2021, 3:58:36 PM
+System Boot Time:          11/20/2021, 3:58:13 PM
+System Manufacturer:       VMware, Inc.
+System Model:              VMware7,1
+System Type:               x64-based PC
+Processor(s):              2 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 141 Stepping 1 GenuineIntel ~2304 Mhz
+                           [02]: Intel64 Family 6 Model 141 Stepping 1 GenuineIntel ~2304 Mhz
+BIOS Version:              VMware, Inc. VMW71.00V.18452719.B64.2108091906, 8/9/2021
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC-05:00) Eastern Time (US & Canada)
+Total Physical Memory:     2,047 MB
+Available Physical Memory: 1,066 MB
+Virtual Memory: Max Size:  3,199 MB
+Virtual Memory: Available: 2,146 MB
+Virtual Memory: In Use:    1,053 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\WIN-44DBOSDFNEV
+Hotfix(s):                 1 Hotfix(s) Installed.
+                           [01]: KB3192137
+Network Card(s):           1 NIC(s) Installed.
+                           [01]: Intel(R) 82574L Gigabit Network Connection
+                                 Connection Name: Ethernet0
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.145.254
+                                 IP address(es)
+                                 [01]: 192.168.145.147
+                                 [02]: fe80::71e8:c6b3:ee3:e478
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
