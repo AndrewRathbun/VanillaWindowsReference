@@ -4,6 +4,9 @@ A repo that contains recursive directory listings of a vanilla (clean) install o
 Stay tuned! 
 
 # Version Tracker
+
+## Windows
+
 | OS                             | ISO Filename                                                                           |
 |--------------------------------|----------------------------------------------------------------------------------------|
 | W8_Pro_9200                    | `en_windows_8_x64_dvd_915440.iso`                                                      |
@@ -21,6 +24,11 @@ Stay tuned!
 | W10_Pro_20H2_19042             | `en_windows_10_consumer_editions_version_20h2_updated_nov_2020_x64_dvd_7727be28.iso`   |
 | W10_Pro_21H1_19043.928         | `en_windows_10_consumer_editions_version_21h1_x64_dvd_540c0dd4.iso`                    |
 | W10_Pro_21H2_19044.1288        | `en-us_windows_10_consumer_editions_version_21h2_x64_dvd_6cfdb144.iso`                 |
+
+## Windows Server
+
+| OS                             | ISO Filename                                                                           |
+|--------------------------------|----------------------------------------------------------------------------------------|
 | W2016_Standard_1607_14093.0    | `en_windows_server_2016_x64_dvd_9327751.iso`                                           |
 | W2016_Standard_1607_14393.447  | `en_windows_server_2016_x64_dvd_9718492.iso`                                           |
 | W2016_Standard_1607_14393.1884 | `en_windows_server_2016_updated_feb_2018_x64_dvd_11636692.iso`                         |
