@@ -1,0 +1,45 @@
+Host Name:                 WIN-51J80GBGSBP
+OS Name:                   Microsoft Windows Server 2019 Standard
+OS Version:                10.0.17763 N/A Build 17763
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Server
+OS Build Type:             Multiprocessor Free
+Registered Owner:          Windows User
+Registered Organization:
+Product ID:                00429-70000-00000-AA727
+Original Install Date:     11/25/2021, 7:49:59 PM
+System Boot Time:          11/25/2021, 7:48:10 PM
+System Manufacturer:       VMware, Inc.
+System Model:              VMware7,1
+System Type:               x64-based PC
+Processor(s):              2 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 141 Stepping 1 GenuineIntel ~2304 Mhz
+                           [02]: Intel64 Family 6 Model 141 Stepping 1 GenuineIntel ~2304 Mhz
+BIOS Version:              VMware, Inc. VMW71.00V.18452719.B64.2108091906, 8/9/2021
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume2
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC-08:00) Pacific Time (US & Canada)
+Total Physical Memory:     2,047 MB
+Available Physical Memory: 501 MB
+Virtual Memory: Max Size:  3,199 MB
+Virtual Memory: Available: 1,757 MB
+Virtual Memory: In Use:    1,442 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              N/A
+Hotfix(s):                 3 Hotfix(s) Installed.
+                           [01]: KB4601060
+                           [02]: KB4601393
+                           [03]: KB4601345
+Network Card(s):           1 NIC(s) Installed.
+                           [01]: Intel(R) 82574L Gigabit Network Connection
+                                 Connection Name: Ethernet0
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.145.254
+                                 IP address(es)
+                                 [01]: 192.168.145.206
+                                 [02]: fe80::cc3b:11fd:d284:d40
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
