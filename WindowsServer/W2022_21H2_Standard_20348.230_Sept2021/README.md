@@ -1,4 +1,4 @@
-# Windows Server 2019 (1809) Build 20348.230 Directory Listing
+# Windows Server 2022 (21H2) Build 20348.230 Directory Listing
 
 ## Actions Taken Prior to Generating Directory Listing
 
