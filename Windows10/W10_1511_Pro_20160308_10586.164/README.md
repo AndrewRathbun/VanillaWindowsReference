@@ -1,5 +1,9 @@
 # Windows 10 (1511) Pro Build 10586.164 Directory Listing
 
+Release date: 20160308
+
+Official documentation: https://support.microsoft.com/en-us/topic/march-8-2016-kb3140768-os-build-10586-164-420cbd68-19c9-5e22-2ff5-819e0809a0d4
+
 ## Actions Taken Prior to Generating Directory Listing
 
 1. Copied `PsExec_IgnoreThisFile_ResearchTool.exe` to the root of C:\
