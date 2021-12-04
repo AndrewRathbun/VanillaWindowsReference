@@ -1,5 +1,9 @@
 # Windows 10 (1511) Enterprise Build 10586.104 Directory Listing
 
+Release date: 20160209
+
+Official documentation: https://support.microsoft.com/en-us/topic/february-9-2016-kb3135173-os-build-10586-104-98f7fffa-3d9b-9b69-4104-2a542c0de25a
+
 ## Actions Taken Prior to Generating Directory Listing
 
 1. Copied `PsExec_IgnoreThisFile_ResearchTool.exe` to the root of C:\
