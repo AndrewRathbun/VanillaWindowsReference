@@ -1,8 +1,4 @@
-# Windows 10 (1809) Build 17763.437 Directory Listing
-
-Release date: 20190409
-
-Official documentation: https://support.microsoft.com/en-us/topic/april-9-2019-kb4493509-os-build-17763-437-3009e91f-261d-7cdc-4f7e-b00a3fde5991
+# Windows 10 (1809) Build 17763.864 Directory Listing
 
 ## Actions Taken Prior to Generating Directory Listing
 
@@ -32,4 +28,4 @@ Differences go here *work in progress*
 
 # Official Documentation
 
-https://support.microsoft.com/en-us/topic/april-9-2019-kb4493509-os-build-17763-437-3009e91f-261d-7cdc-4f7e-b00a3fde5991
+https://support.microsoft.com/en-us/topic/november-12-2019-kb4523205-os-build-17763-864-100bc05a-c300-a329-94ea-9767f1266176
