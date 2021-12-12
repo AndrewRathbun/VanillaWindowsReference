@@ -9,29 +9,32 @@ Below will track the filename of the ISO used with each version of Windows that 
 
 ## Windows (Consumer Editions)
 
-| OS                               | ISO Filename                                                                             |
-|----------------------------------|------------------------------------------------------------------------------------------|
-|  W8_Pro_9200                     |  `en_windows_8_x64_dvd_915440.iso`                                                       |
-|  W8.1_Pro_9600                   |  `en_windows_8.1_with_update_x64_dvd_6051480.iso`                                        |
-|  W10_Pro_1507_10240              |  `en_windows_10_multiple_editions_x64_dvd_6846432.iso`                                   |
-|  W10_Pro_1511_10586.0            |  `en_windows_10_multiple_editions_version_1511_x64_dvd_7223712.iso`                      |
-|  W10_Pro_1607_14393.0            |  `en_windows_10_multiple_editions_version_1607_updated_jan_2017_x64_dvd_9714399.iso`     |
-|  W10_Pro_1703_15063.0            |  `en_windows_10_multiple_editions_version_1703_updated_march_2017_x64_dvd_10189288.iso`  |
-|  W10_Pro_1709_16299.64           |  `en_windows_10_multi-edition_version_1709_updated_sept_2017_x64_dvd_100090817.iso`      |
-|  W10_Pro_1803_17134.1            |  `en_windows_10_consumer_editions_version_1803_updated_march_2018_x64_dvd_12063379.iso`  |
-|  W10_Pro_1809_17763.107          |  `en_windows_10_consumer_edition_version_1809_updated_sept_2018_x64_dvd_491ea967.iso`    |
-|  W10_Pro_1903_18362.30           |  `en_windows_10_consumer_editions_version_1903_x64_dvd_b980e68c.iso`                     |
-|  W10_Pro_1909_18363.418          |  `en_windows_10_consumer_editions_version_1909_x64_dvd_be09950e.iso`                     |
-|  W10_Pro_2004_19041              |  `en_windows_10_consumer_editions_version_2004_x64_dvd_8d28c5d7.iso`                     |
-|  W10_Pro_20H2_19042              |  `en_windows_10_consumer_editions_version_20h2_updated_nov_2020_x64_dvd_7727be28.iso`    |
-|  W10_Pro_21H1_19043.928          |  `en_windows_10_consumer_editions_version_21h1_x64_dvd_540c0dd4.iso`                     |
-|  W10_Pro_21H2_19044.1288         |  `en-us_windows_10_consumer_editions_version_21h2_x64_dvd_6cfdb144.iso`                  |
-
+| OS_Version_ReleaseDate_BuildNumber | ISO                                                                                  |
+|------------------------------------|--------------------------------------------------------------------------------------|
+| W10_1809_Pro_20181113_17763.107    | en_windows_10_consumer_edition_version_1809_updated_sept_2018_x64_dvd_491ea967.iso   |
+| W10_1809_Pro_20181211_17763.194    | en_windows_10_consumer_editions_version_1809_updated_dec_2018_x64_dvd_d7d23ac9.iso   |
+| W10_1809_Pro_20190212_17763.316    | en_windows_10_consumer_edition_version_1809_updated_feb_2019_x64_dvd_258dbd0b.iso    |
+| W10_1809_Pro_20190312_17763.379    | en_windows_10_consumer_editions_version_1809_updated_march_2019_x64_dvd_72376bfd.iso |
+| W10_1809_Pro_20190409_17763.437    | en_windows_10_consumer_edition_version_1809_updated_april_2019_x64_dvd_b6a14039.iso  |
+| W10_1809_Pro_20190519_17763.504    | en_windows_10_consumer_edition_version_1809_updated_may_2019_x64_dvd_75f0c72a.iso    |
+| W10_1809_Pro_20190611_17763.557    | en_windows_10_consumer_edition_version_1809_updated_june_2019_x64_dvd_0251142c.iso   |
+| W10_1809_Pro_20190709_17763.615    | en_windows_10_consumer_editions_version_1809_updated_july_2019_x64_dvd_3c496b49.iso  |
+| W10_1809_Pro_20190813_17763.678    | en_windows_10_consumer_editions_version_1809_updated_aug_2019_x64_dvd_12587d31.iso   |
+| W10_1809_Pro_20190910_17763.737    | en_windows_10_consumer_editions_version_1809_updated_sept_2019_x64_dvd_fc44b82a.iso  |
+| W10_1809_Pro_20191008_17763.805    | en_windows_10_consumer_editions_version_1809_updated_oct_2019_x64_dvd_8ab7e99c.iso   |
+| W10_1809_Pro_20191112_17763.864    | en_windows_10_consumer_editions_version_1809_updated_nov_2019_x64_dvd_9194b342.iso   |
+| W10_1809_Pro_20191210_17763.914    | en_windows_10_consumer_editions_version_1809_updated_dec_2019_x64_dvd_fd4eda84.iso   |
+| W10_1809_Pro_20200114_17763.973    | en_windows_10_consumer_editions_version_1809_updated_jan_2020_x64_dvd_8a20346d.iso   |
+| W10_1809_Pro_20200211_17763.1039   | en_windows_10_consumer_editions_version_1809_updated_feb_2020_x64_dvd_fd8ac5c4.iso   |
+| W10_1809_Pro_20200312_17763.1098   | en_windows_10_consumer_editions_version_1809_updated_march_2020_x64_dvd_274d94cd.iso |
+| W10_1809_Pro_20200414_17763.1158   | en_windows_10_consumer_editions_version_1809_updated_april_2020_x64_dvd_e6965b51.iso |
+| W10_1809_Pro_20200512_17763.1217   | en_windows_10_consumer_editions_version_1809_updated_may_2020_x64_dvd_671dcef2.iso   |
+| W10_1809_Pro_20200609_17763.1282   | en_windows_10_consumer_editions_version_1809_updated_june_2020_x64_dvd_7ad5cb9e.iso  |
+| W10_1809_Pro_20200714_17763.1339   | en_windows_10_consumer_editions_version_1809_updated_july_2020_x64_dvd_47ec1f58.iso  |
+| W10_1809_Pro_20200811_17763.1397   | en_windows_10_consumer_editions_version_1809_updated_aug_2020_x64_dvd_9971cc37.iso   |
+| W10_1809_Pro_20200908_17763.1457   | en_windows_10_consumer_editions_version_1809_updated_sep_2020_x64_dvd_91429a5b.iso   |
+| W10_1809_Pro_20201013_17763.1518   | en_windows_10_consumer_editions_version_1809_updated_oct_2020_x64_dvd_3d175630.iso   |
+| W10_1809_Pro_20201110_17763.1577   | en_windows_10_consumer_editions_version_1809_updated_nov_2020_x64_dvd_33433375.iso   |
 ## Windows Server
 
-| OS                             | ISO Filename                                                                           |
-|--------------------------------|----------------------------------------------------------------------------------------|
-| W2016_Standard_1607_14093.0    | `en_windows_server_2016_x64_dvd_9327751.iso`                                           |
-| W2016_Standard_1607_14393.447  | `en_windows_server_2016_x64_dvd_9718492.iso`                                           |
-| W2016_Standard_1607_14393.1884 | `en_windows_server_2016_updated_feb_2018_x64_dvd_11636692.iso`                         |
-| W2019_Standard_1809_17763.107  | `en_windows_server_2019_x64_dvd_4cb967d8.iso`                                          |
+* Tables will return when more work is done, stay tuned
