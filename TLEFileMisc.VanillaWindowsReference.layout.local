@@ -1,0 +1,276 @@
+﻿<XtraSerializer version="1.0" application="View">
+  <property name="#LayoutVersion" />
+  <property name="#LayoutScaleFactor">@1,Width=1@1,Height=1</property>
+  <property name="OptionsBehavior" isnull="true" iskey="true">
+    <property name="AllowIncrementalSearch">true</property>
+    <property name="AllowDeleteRows">False</property>
+    <property name="EditorShowMode">MouseDown</property>
+  </property>
+  <property name="OptionsSelection" isnull="true" iskey="true">
+    <property name="MultiSelectMode">CellSelect</property>
+    <property name="MultiSelect">true</property>
+  </property>
+  <property name="OptionsView" isnull="true" iskey="true">
+    <property name="HeaderFilterButtonShowMode">SmartTag</property>
+    <property name="ColumnAutoWidth">false</property>
+    <property name="RowAutoHeight">true</property>
+    <property name="ShowAutoFilterRow">true</property>
+    <property name="EnableAppearanceOddRow">true</property>
+    <property name="EnableAppearanceEvenRow">true</property>
+    <property name="FilterCriteriaDisplayStyle">Visual</property>
+  </property>
+  <property name="OptionsFilter" isnull="true" iskey="true">
+    <property name="DefaultFilterEditorView">VisualAndText</property>
+    <property name="UseNewCustomFilterDialog">true</property>
+    <property name="MRUFilterListCount">20</property>
+    <property name="MRUFilterListPopupCount">20</property>
+    <property name="ColumnFilterPopupMode">Excel</property>
+  </property>
+  <property name="OptionsFind" isnull="true" iskey="true">
+    <property name="ParserKind">Mixed</property>
+    <property name="Condition">Contains</property>
+    <property name="FindDelay">1250</property>
+    <property name="ShowCloseButton">false</property>
+    <property name="AlwaysVisible">true</property>
+  </property>
+  <property name="OptionsMenu" isnull="true" iskey="true">
+    <property name="ShowConditionalFormattingItem">true</property>
+  </property>
+  <property name="FixedLineWidth">2</property>
+  <property name="IndicatorWidth">-1</property>
+  <property name="ColumnPanelRowHeight">-1</property>
+  <property name="RowSeparatorHeight">0</property>
+  <property name="FooterPanelHeight">-1</property>
+  <property name="HorzScrollVisibility">Auto</property>
+  <property name="VertScrollVisibility">Auto</property>
+  <property name="RowHeight">-1</property>
+  <property name="GroupRowHeight">-1</property>
+  <property name="GroupFormat">{0}: [#image]{1} {2}</property>
+  <property name="ChildGridLevelName" />
+  <property name="VertScrollTipFieldName" />
+  <property name="PreviewFieldName" />
+  <property name="GroupPanelText" />
+  <property name="NewItemRowText" />
+  <property name="LevelIndent">-1</property>
+  <property name="PreviewIndent">-1</property>
+  <property name="PreviewLineCount">-1</property>
+  <property name="ScrollStyle">LiveVertScroll, LiveHorzScroll</property>
+  <property name="FocusRectStyle">CellFocus</property>
+  <property name="HorzScrollStep">0</property>
+  <property name="OptionsClipboard" isnull="true" iskey="true">
+    <property name="CopyColumnHeaders">False</property>
+  </property>
+  <property name="ActiveFilterEnabled">true</property>
+  <property name="ViewCaptionHeight">-1</property>
+  <property name="Columns" iskey="true" value="13">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="Name">colDirectoryName</property>
+      <property name="VisibleIndex">2</property>
+      <property name="Visible">true</property>
+      <property name="Width">154</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="Name">colName</property>
+      <property name="VisibleIndex">3</property>
+      <property name="Visible">true</property>
+      <property name="Width">230</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="Name">colFullName</property>
+      <property name="VisibleIndex">4</property>
+      <property name="Visible">true</property>
+      <property name="Width">250</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item4" isnull="true" iskey="true">
+      <property name="Name">colLength</property>
+      <property name="VisibleIndex">5</property>
+      <property name="Visible">true</property>
+      <property name="Width">82</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item5" isnull="true" iskey="true">
+      <property name="Name">colCreationTimeUtc</property>
+      <property name="VisibleIndex">6</property>
+      <property name="Visible">true</property>
+      <property name="Width">181</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item6" isnull="true" iskey="true">
+      <property name="Name">colLastAccessTimeUtc</property>
+      <property name="VisibleIndex">7</property>
+      <property name="Visible">true</property>
+      <property name="Width">208</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item7" isnull="true" iskey="true">
+      <property name="Name">colLastWriteTimeUtc</property>
+      <property name="VisibleIndex">8</property>
+      <property name="Visible">true</property>
+      <property name="Width">199</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item8" isnull="true" iskey="true">
+      <property name="Name">colAttributes</property>
+      <property name="VisibleIndex">9</property>
+      <property name="Visible">true</property>
+      <property name="Width">118</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item9" isnull="true" iskey="true">
+      <property name="Name">colMd5</property>
+      <property name="VisibleIndex">10</property>
+      <property name="Visible">true</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item10" isnull="true" iskey="true">
+      <property name="Name">colSha256</property>
+      <property name="VisibleIndex">11</property>
+      <property name="Visible">true</property>
+      <property name="Width">82</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item11" isnull="true" iskey="true">
+      <property name="Name">colSddl</property>
+      <property name="VisibleIndex">12</property>
+      <property name="Visible">true</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item12" isnull="true" iskey="true">
+      <property name="Name">colLine</property>
+      <property name="VisibleIndex">0</property>
+      <property name="Visible">true</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+    <property name="Item13" isnull="true" iskey="true">
+      <property name="Name">colTag</property>
+      <property name="VisibleIndex">1</property>
+      <property name="Visible">true</property>
+      <property name="Width">75</property>
+      <property name="MinWidth">20</property>
+      <property name="MaxWidth">0</property>
+    </property>
+  </property>
+  <property name="ViewCaption" />
+  <property name="BorderStyle">Default</property>
+  <property name="SynchronizeClones">true</property>
+  <property name="DetailTabHeaderLocation">Top</property>
+  <property name="Name">gridView2</property>
+  <property name="DetailHeight">350</property>
+  <property name="Tag" isnull="true" />
+  <property name="GroupSummary" iskey="true" value="1">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="Mode">AllRows</property>
+      <property name="ShowInGroupColumnFooterName" />
+      <property name="Tag" isnull="true" />
+      <property name="FieldName" />
+      <property name="SummaryType">Count</property>
+      <property name="DisplayFormat"> (Count: {0:N0})</property>
+    </property>
+  </property>
+  <property name="ActiveFilterString" />
+  <property name="MRUFiltersInfo" iskey="true" value="4">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="NonColumnFilter" />
+      <property name="ColumnsFilter" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Type">Custom</property>
+          <property name="FilterString">IsNullOrEmpty([Md5])</property>
+          <property name="DisplayText" />
+          <property name="ColumnName">colMd5</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="NonColumnFilter" />
+      <property name="ColumnsFilter" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Type">Custom</property>
+          <property name="FilterString">[Md5] = '00001FAA9C0EDBF74DB0FF766CE25855'</property>
+          <property name="DisplayText" />
+          <property name="ColumnName">colMd5</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="NonColumnFilter" />
+      <property name="ColumnsFilter" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Type">AutoFilter</property>
+          <property name="FilterString">Contains([FullName], 'vmware')</property>
+          <property name="DisplayText" />
+          <property name="ColumnName">colFullName</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item4" isnull="true" iskey="true">
+      <property name="NonColumnFilter" />
+      <property name="ColumnsFilter" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Type">AutoFilter</property>
+          <property name="FilterString">Contains([Name], 'vmware')</property>
+          <property name="DisplayText" />
+          <property name="ColumnName">colName</property>
+        </property>
+      </property>
+    </property>
+  </property>
+  <property name="FormatRules" iskey="true" value="3">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="ColumnName">colName</property>
+      <property name="ApplyToRow">true</property>
+      <property name="Name">Format0</property>
+      <property name="RuleType">#FormatConditionRuleExpression</property>
+      <property name="Rule" isnull="true" iskey="true">
+        <property name="Expression">Contains([Name], 'PsExec_IgnoreThisFile_ResearchTool.exe')</property>
+        <property name="PredefinedName">Bold Text</property>
+        <property name="Appearance" isnull="true" iskey="true">
+          <property name="Options" isnull="true" iskey="true">
+            <property name="UseFont">true</property>
+          </property>
+          <property name="Font">Tahoma, 8.25pt, style=Strikeout</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="ColumnName">colName</property>
+      <property name="ApplyToRow">true</property>
+      <property name="Name">Format1</property>
+      <property name="RuleType">#FormatConditionRuleExpression</property>
+      <property name="Rule" isnull="true" iskey="true">
+        <property name="Expression">Contains([FullName], 'vmware')</property>
+        <property name="PredefinedName">Strikeout Text</property>
+      </property>
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="ColumnName">colName</property>
+      <property name="ApplyToRow">true</property>
+      <property name="Name">Format2</property>
+      <property name="RuleType">#FormatConditionRuleExpression</property>
+      <property name="Rule" isnull="true" iskey="true">
+        <property name="Expression">Contains([FullName], 'C:\test.csv')</property>
+        <property name="PredefinedName">Strikeout Text</property>
+      </property>
+    </property>
+  </property>
+  <property name="GroupSummarySortInfoState" />
+  <property name="FindFilterText" />
+  <property name="FindPanelVisible">false</property>
+</XtraSerializer>
