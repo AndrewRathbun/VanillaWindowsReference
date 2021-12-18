@@ -6,7 +6,7 @@ Official documentation: https://support.microsoft.com/en-us/topic/june-9-2020-kb
 
 ## Actions Taken Prior to Generating Directory Listing
 
-1. Copied `PsExec_IgnoreThisFile_ResearchTool.exe` to the root of C:\
+1. Copied `PsExec_IgnoreThisFile_ResearchTool.exe` to the root of `C:\`
 2. Opened `CMD` or `PowerShell` (Admin) and typed the commands listed below
 
 ## Commands Ran
