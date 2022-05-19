@@ -7,138 +7,201 @@ Stay tuned!
 
 Below will track the filename of the ISO used with each version of Windows that is covered within this repo.
 
-## Windows (Consumer Editions)
-
-| Image Name     | Image Description | Version          | Service Pack Build | Architecture | Edition      | Directory Count | File Count | Created Time        | Modified Time       | Sha256                                                           | ISO Name                                                                                  |
-|----------------|-------------------|------------------|--------------------|--------------|--------------|-----------------|------------|---------------------|---------------------|------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
-| Windows 10 Pro | Windows 10 Pro    | 10.0.14393.0     | 0                  | 9            | Professional | 19112           | 103893     | 2016-07-16 18:09:37 | 2016-07-16 18:10:13 | `4E874B0DF4319B20B5759B05A2A337407A29E1D5B40E3B494B299C18CC35DCAC` | en-gb_windows_10_multiple_editions_version_1607_updated_jul_2016_x64_dvd_9058848.iso      |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.19041.1415  | 1415               | 9            | Professional | 26896           | 99605      | 2021-12-10 07:35:21 | 2021-12-10 09:03:26 | `BF9915DD6AE826DEFB5C6A2978B62A5BA75A13081782BF81531098E2070A6EC4` | en-us_windows_10_consumer_editions_version_21h1_updated_dec_2021_x64_dvd_4a1a77b9.iso     |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.19041.1348  | 1348               | 9            | Professional | 26797           | 99500      | 2021-11-03 19:09:50 | 2021-11-03 19:48:18 | `5068977CF5EC34AC4DE83AACAB3B4DF515B0BBF4145B527938E891ED3F73361D` | en-us_windows_10_consumer_editions_version_21h1_updated_nov_2021_x64_dvd_a00130e0.iso     |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.19041.1288  | 1288               | 9            | Professional | 26760           | 99393      | 2021-10-06 04:22:44 | 2021-10-06 07:34:33 | `B1D1124FB983949ABF1E4F12B72E47BDD6523D188425A967FA19682BB5E57542` | en-us_windows_10_consumer_editions_version_21h1_updated_october_2021_x64_dvd_57e4f45d.iso |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.19041.1237  | 1237               | 9            | Professional | 26689           | 99276      | 2021-09-13 02:19:05 | 2021-09-13 03:31:34 | `0E8FF8C3F5D28C21121A3065D828D46AF906DB903B4A50F66AE835130BA139FF` | en-us_windows_10_consumer_editions_version_21h1_updated_sep_2021_x64_dvd_9a13e3f5.iso     |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.19041.1288  | 1288               | 9            | Professional | 26760           | 99385      | 2021-10-06 09:06:00 | 2021-10-06 13:22:01 | `7F6538F0EB33C30F0A5CBBF2F39973D4C8DEA0D64F69BD18E406012F17A8234F` | en-us_windows_10_consumer_editions_version_21h2_x64_dvd_6cfdb144.iso                      |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.17763.1935  | 1935               | 9            | Professional | 31157           | 126636     | 2021-05-08 04:40:16 | 2021-05-08 05:09:56 | `BCA0252215B15448DBAF71A8DADD38E04443E4CEAFDE4962D65798E892BCAB72` | en_windows_10_business_editions_version_1809_updated_may_2021_x64_dvd_7ecf15de.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.19041.1110  | 1110               | 9            | Professional | 26509           | 98786      | 2021-07-10 13:45:50 | 2021-07-10 14:23:16 | `2D326F56CDDA2DD17E28492ACC41A4F317335653388C7976ED6CEE27127A5158` | en_windows_10_consumer_editions_version_21h1_updated_jul_2021_x64_dvd_13fe1567.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.19041.928   | 928                | 9            | Professional | 26123           | 98183      | 2021-04-09 09:01:03 | 2021-04-09 09:36:52 | `6911E839448FA999B07C321FC70E7408FE122214F5C4E80A9CCC64D22D0D85EA` | en_windows_10_consumer_editions_version_21h1_x64_dvd_540c0dd4.iso                         |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.10586.0     | 0                  | 9            | Professional | 19312           | 98317      | 2015-10-30 04:27:01 | 2015-10-30 04:27:37 | `7536D3807A3EA388B90E4F26E14595EC80B77C07802DC7E979422ED4FCEE9C7F` | en_windows_10_multiple_editions_version_1511_x64_dvd_7223712.iso                          |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.14393.0     | 0                  | 9            | Professional | 21589           | 118172     | 2016-11-20 15:03:08 | 2016-11-20 15:03:52 | `68570742152A06631BDFE8DEFD2704B6738580B312ABD23B902D6602A2BB9332` | en_windows_10_multiple_editions_version_1607_updated_jan_2017_x64_dvd_9714399.iso         |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.17134.1     | 1                  | 9            | Professional | 22015           | 109234     | 2018-06-19 15:27:11 | 2018-06-19 16:12:56 | `12E92E317B6C5F7A0D762ACA1A4761B8E000F7ECF8ED986A860BAE492A142AC3` | en_windows_10_consumer_edition_version_1803_updated_jul_2018_x64_dvd_12712603.iso         |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.15063.296   | 296                | 9            | Professional | 21128           | 111391     | 2017-03-18 21:40:43 | 2017-07-11 01:31:09 | `9BF5982F7EBE228BE168A22DC64DFFBAC742A25CFE6D0955F63E1ADEFB7A1D4C` | en_windows_10_multiple_editions_version_1703_updated_july_2017_x64_dvd_10925340.iso       |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.17134.829   | 829                | 9            | Professional | 23021           | 116229     | 2019-06-11 21:16:36 | 2019-06-11 21:59:35 | `8FF39168207153B1731C83F1605E7E42E843D52647AFC093325892012B6E139F` | en_windows_10_consumer_edition_version_1803_updated_june_2019_x64_dvd_5c0f3aae.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.15063.296   | 296                | 9            | Professional | 20606           | 108944     | 2017-03-18 21:40:43 | 2017-06-08 04:07:28 | `EE7D8FA7CA069B5B93327C9346D74BD4074764CAC51D92192F05335EEB405C50` | en_windows_10_multiple_editions_version_1703_updated_june_2017_x64_dvd_10725021.iso       |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.17134.648   | 648                | 9            | Professional | 22890           | 115491     | 2019-03-13 03:28:41 | 2019-03-13 04:15:58 | `796D3E749671A4242DB3A883E08B3F24AA8C8CFAE8A5B04E6E8505CD4B6D00EB` | en_windows_10_consumer_edition_version_1803_updated_march_2019_x64_dvd_3cbe2068.iso       |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.15063.0     | 0                  | 9            | Professional | 19668           | 101896     | 2017-03-18 21:40:43 | 2017-03-18 21:49:09 | `B842A801BF1DEDF3ACBFD909F91FB2A741EEF20FDA133DAA1878E46A07EC9237` | en_windows_10_multiple_editions_version_1703_updated_march_2017_x64_dvd_10189288.iso      |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.17134.766   | 766                | 9            | Professional | 22979           | 115941     | 2019-05-19 17:18:36 | 2019-05-19 18:03:58 | `CEA84D32791993F1B0F4AA307C0D1798AEF4B7BB41A716BDBC75BF4432752E1A` | en_windows_10_consumer_edition_version_1803_updated_may_2019_x64_dvd_3ed84d12.iso         |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.10240.16384 | 16384              | 9            | Professional | 18986           | 94284      | 2015-07-10 08:25:50 | 2015-07-10 08:26:24 | `DEE793B38CE4CD37F32847605776B0F91D8A30703DFC5844731B00F1171A36FF` | en_windows_10_multiple_editions_x64_dvd_6846432.iso                                       |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.17763.504   | 504                | 9            | Professional | 22568           | 102581     | 2019-05-19 16:34:58 | 2019-05-19 17:16:30 | `64843298BF36E78C9F74118FFFDC2571FF40BE67A7E5C19CA6FC1BFCBED4F273` | en_windows_10_consumer_edition_version_1809_updated_may_2019_x64_dvd_75f0c72a.iso         |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.17763.107   | 107                | 9            | Professional | 19468           | 90613      | 2018-10-29 17:53:46 | 2018-10-29 18:35:17 | `3BDA63FCA560C87CBD4103DC16400DE760692699DC80ABDAF012DF6197EDB2C1` | en_windows_10_consumer_edition_version_1809_updated_sept_2018_x64_dvd_491ea967.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.18362.175   | 175                | 9            | Professional | 19798           | 90136      | 2019-06-11 20:37:17 | 2019-06-11 21:15:22 | `05E9ECA1A910BD3BCD6684D940A8479D9EA24C82D4528CF6421D3D5C5F296144` | en_windows_10_consumer_edition_version_1903_updated_june_2019_x64_dvd_8d122c90.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.19041.928   | 928                | 9            | Professional | 26681           | 99096      | 2021-04-09 08:49:34 | 2021-04-09 09:33:39 | `3CF809CB5A3CCAA62A50AAACCF6E3E57BF8F0329DBD643CFBD82D5E1E78FCDFD` | en_windows_10_consumer_editions_version_20h2_updated_april_2021_x64_dvd_3b79f4b0.iso      |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.19041.685   | 685                | 9            | Professional | 24286           | 96698      | 2020-12-03 18:59:47 | 2020-12-03 19:42:20 | `96E9D0FB9672B2A353A26D53303E9FBEB6721D2578FEB12BFC27C3F52FF1CDB9` | en_windows_10_consumer_editions_version_20h2_updated_dec_2020_x64_dvd_bde6c5a2.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.19041.804   | 804                | 9            | Professional | 26444           | 99438      | 2021-02-04 20:33:15 | 2021-02-04 21:16:20 | `B9AC55AEAB7A899481A84E69E02F596053B7F441586B6AB39FEE9F04019A2A56` | en_windows_10_consumer_editions_version_20h2_updated_feb_2021_x64_dvd_a61299d8.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.19041.746   | 746                | 9            | Professional | 26337           | 99141      | 2021-01-09 20:03:00 | 2021-01-09 20:50:17 | `18C05A70676F9AA8C7CE9A90BB63F6105CCDD630538DA03D24547089E7DA19D2` | en_windows_10_consumer_editions_version_20h2_updated_jan_2021_x64_dvd_00152b46.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.19041.1052  | 1052               | 9            | Professional | 27003           | 99566      | 2021-06-06 15:04:58 | 2021-06-06 15:47:32 | `B53581BF6182FD3160BA247A12AEF519E4AA65A932DCC1CC3E08D1630AB8FAAB` | en_windows_10_consumer_editions_version_20h2_updated_jun_2021_x64_dvd_e638972f.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.19041.867   | 867                | 9            | Professional | 26547           | 99669      | 2021-03-05 14:03:56 | 2021-03-05 14:48:06 | `F7E6D82BFDF97095DB39C5DA57A84CF7454E99E93447B0F38C2420E8E61D616A` | en_windows_10_consumer_editions_version_20h2_updated_march_2021_x64_dvd_68a3fcec.iso      |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.19041.985   | 985                | 9            | Professional | 26785           | 99274      | 2021-05-05 17:31:53 | 2021-05-05 18:12:21 | `3AD2CAD63FA0BFCC940E296E90B751C252D295EE51449C9791B2F0431B080BBF` | en_windows_10_consumer_editions_version_20h2_updated_may_2021_x64_dvd_cd2b0706.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.19041.631   | 631                | 9            | Professional | 24132           | 96477      | 2020-11-18 22:01:10 | 2020-11-18 22:43:07 | `6C6856405DBC7674EDA21BC5F7094F5A18AF5C9BACC67ED111E8F53F02E7D13D` | en_windows_10_consumer_editions_version_20h2_updated_nov_2020_x64_dvd_7727be28.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.19041.1052  | 1052               | 9            | Professional | 26445           | 98659      | 2021-06-06 15:05:54 | 2021-06-06 15:45:41 | `A34505075F6F6E7CC16250CC393D254D5C46EBD8875A0460AE31BBD1B4613A9B` | en_windows_10_consumer_editions_version_21h1_updated_jun_2021_x64_dvd_a6b56a79.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.17134.950   | 950                | 9            | Professional | 23112           | 116726     | 2019-08-09 19:31:12 | 2019-08-09 20:20:07 | `A756F57C82B44A75F60C70E1AA495DA61EA0359B447244927543EDF7FCEE1C62` | en_windows_10_consumer_editions_version_1803_updated_aug_2019_x64_dvd_b663e13e.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.17134.523   | 523                | 9            | Professional | 22835           | 115170     | 2019-01-07 21:17:26 | 2019-01-07 21:58:52 | `8A11B49DAED535718E9F6872A5FE73C845589E67F7CF433A4B125D8A01708FB8` | en_windows_10_consumer_editions_version_1803_updated_jan_2019_x64_dvd_93b1b9b7.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.17134.885   | 885                | 9            | Professional | 23068           | 116456     | 2019-07-08 21:57:53 | 2019-07-08 22:43:22 | `9F5D85DE4F4874117AEF37B3C67E6B8FE5F66CAFAB0442E9F1E67BFEDB9BCD2F` | en_windows_10_consumer_editions_version_1803_updated_july_2019_x64_dvd_220ee325.iso       |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.17134.1     | 1                  | 9            | Professional | 20912           | 102210     | 2018-04-12 04:40:44 | 2018-04-12 05:18:43 | `2A7E8C918347F36C23DCBAB9804ACA5B88EAF8B118C7356B1D96AB771ECB017F` | en_windows_10_consumer_editions_version_1803_updated_march_2018_x64_dvd_12063379.iso      |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.17134.1006  | 1006               | 9            | Professional | 23142           | 116936     | 2019-09-06 20:33:25 | 2019-09-06 21:16:31 | `668D619047E16501B7B26216FC485F54AAFA2B2BF7788F16F182BE5573DA9BC0` | en_windows_10_consumer_editions_version_1803_updated_sept_2019_x64_dvd_d494abf5.iso       |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.17763.1158  | 1158               | 9            | Professional | 26138           | 113528     | 2020-04-13 14:50:14 | 2020-04-13 15:25:28 | `7C1EB7A75AF242C34CF7900BD048D1DA672DF6DB44F00666E77138DD2891012A` | en_windows_10_consumer_editions_version_1809_updated_april_2020_x64_dvd_e6965b51.iso      |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.17763.678   | 678                | 9            | Professional | 23361           | 105074     | 2019-08-09 19:07:25 | 2019-08-09 19:45:15 | `C9F1EA20708830D9F4748F346D5147949606BBC13F034D2CFC053CCD8212F7FF` | en_windows_10_consumer_editions_version_1809_updated_aug_2019_x64_dvd_12587d31.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.17763.1397  | 1397               | 9            | Professional | 27296           | 116316     | 2020-08-06 23:58:26 | 2020-08-07 00:31:29 | `3386182A0F999258D9D1403C98466CA8CA20CF10E759AB7E5D17B6ADCC863723` | en_windows_10_consumer_editions_version_1809_updated_aug_2020_x64_dvd_9971cc37.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.17763.194   | 194                | 9            | Professional | 20639           | 94734      | 2018-12-10 23:12:19 | 2018-12-10 23:49:45 | `768F990B54F847E21A7FA26C4F175D4AFBF3770420EBC45A004EC07D12ABBAA1` | en_windows_10_consumer_editions_version_1809_updated_dec_2018_x64_dvd_d7d23ac9.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.17763.914   | 914                | 9            | Professional | 24294           | 108699     | 2019-12-04 20:30:54 | 2019-12-04 21:07:24 | `85CDFBD90E88BA6E3471D077386C0539A5F711056A5F3AB984434807A9602A1E` | en_windows_10_consumer_editions_version_1809_updated_dec_2019_x64_dvd_fd4eda84.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.17763.1039  | 1039               | 9            | Professional | 24587           | 109597     | 2020-02-09 15:24:17 | 2020-02-09 16:12:23 | `635F81D4165ABFADC6E1926C3B37BF96C43C966E556967AD04CBE67508712F3E` | en_windows_10_consumer_editions_version_1809_updated_feb_2020_x64_dvd_fd8ac5c4.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.17763.253   | 253                | 9            | Professional | 20694           | 94942      | 2019-01-07 20:31:45 | 2019-01-07 21:11:40 | `C660ED813EAE3B949ACC81100F41A0CC1DF0CD02181FB2F1B890B8BC254E50EA` | en_windows_10_consumer_editions_version_1809_updated_jan_2019_x64_dvd_e2200b79.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.17763.973   | 973                | 9            | Professional | 24372           | 108916     | 2020-01-11 03:02:08 | 2020-01-11 03:37:47 | `0E14609A4F247AD523800ED86A11D55638215522B218AFB1C5FF6FBBBA603A33` | en_windows_10_consumer_editions_version_1809_updated_jan_2020_x64_dvd_8a20346d.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.17763.1217  | 1217               | 9            | Professional | 26676           | 114766     | 2020-05-08 12:40:05 | 2020-05-08 13:13:07 | `54DA74FCBFA87053FFA16B52D7AD608EF1305146284D8C9C07C05F7AC0C8116B` | en_windows_10_consumer_editions_version_1809_updated_may_2020_x64_dvd_671dcef2.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.17763.864   | 864                | 9            | Professional | 24276           | 108637     | 2019-11-11 22:50:21 | 2019-11-11 23:26:42 | `1E750FE47C6B83B725810BD72EA323B0B229CE8B35425B7E9E92114D0361A503` | en_windows_10_consumer_editions_version_1809_updated_nov_2019_x64_dvd_9194b342.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.17763.1577  | 1577               | 9            | Professional | 27711           | 117550     | 2020-11-03 13:16:16 | 2020-11-03 14:10:52 | `63FFEEBFC7CF2201D6DB1E2D9CC6F12E9843B95B804FFC78216320F23D6723D4` | en_windows_10_consumer_editions_version_1809_updated_nov_2020_x64_dvd_33433375.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.17763.805   | 805                | 9            | Professional | 24130           | 108193     | 2019-10-06 13:18:00 | 2019-10-06 13:56:38 | `30F645CD2487DFDE9A08F7999CDC51EAD9F2CAB57B5902488FA391957F4218A6` | en_windows_10_consumer_editions_version_1809_updated_oct_2019_x64_dvd_8ab7e99c.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.17763.1518  | 1518               | 9            | Professional | 27604           | 117223     | 2020-10-13 17:51:54 | 2020-10-13 18:28:41 | `E7B5E5CA5AE40502A36FD15D79F681F196EB50FE0612CED4A9BFF7B946F0C84B` | en_windows_10_consumer_editions_version_1809_updated_oct_2020_x64_dvd_3d175630.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.17763.1457  | 1457               | 9            | Professional | 27419           | 116653     | 2020-09-03 02:39:34 | 2020-09-03 03:16:09 | `C924B566FF1214777BE512EB1FF2562182FE7D3037FF2CB8F12BEEB115D05136` | en_windows_10_consumer_editions_version_1809_updated_sep_2020_x64_dvd_91429a5b.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.17763.737   | 737                | 9            | Professional | 23552           | 105599     | 2019-09-06 20:23:51 | 2019-09-06 21:07:44 | `F76224A81CC0DFFEFD641D6DBCD2DD5A82C485B355490A75A15D6B458C49704C` | en_windows_10_consumer_editions_version_1809_updated_sept_2019_x64_dvd_fc44b82a.iso       |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.18362.535   | 535                | 9            | Professional | 21691           | 94255      | 2019-12-04 20:03:52 | 2019-12-04 20:40:54 | `0F7B5F80ED2F7FE3B31BA12A47DEB9B368DFAAE2B3CF80A4888BEDAEBC095E50` | en_windows_10_consumer_editions_version_1903_updated_dec_2019_x64_dvd_d2cb3398.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.18362.1256  | 1256               | 9            | Professional | 24072           | 98162      | 2020-12-03 19:22:19 | 2020-12-03 19:55:46 | `51D5C876FCE743C64726F63AA50EB4F0F478395FB28B8975EF4DA80730B6035F` | en_windows_10_consumer_editions_version_1903_updated_dec_2020_x64_dvd_f911c5f0.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.18362.657   | 657                | 9            | Professional | 21929           | 94708      | 2020-02-09 15:07:24 | 2020-02-09 15:44:15 | `4687CBB7FDF3EA4870329497AA2CEF0FB43BBEB65CFAD41E628C86974726714B` | en_windows_10_consumer_editions_version_1903_updated_feb_2020_x64_dvd_c6431ada.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.18362.239   | 239                | 9            | Professional | 20321           | 91514      | 2019-07-08 21:00:16 | 2019-07-08 21:42:20 | `2DF0ECAAD47FE52A54EB2E64B6B00E65ADEAB3C7CBA05834DFB1979B30F27EC0` | en_windows_10_consumer_editions_version_1903_updated_july_2019_x64_dvd_dd9a6041.iso       |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.18362.959   | 959                | 9            | Professional | 23368           | 96940      | 2020-07-10 14:05:11 | 2020-07-10 14:55:23 | `397C5F9F75EE6B7E32A000C12FE02F828619B5914484E965DC84E11DB658EE66` | en_windows_10_consumer_editions_version_1903_updated_july_2020_x64_dvd_1e30e8fb.iso       |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.18362.720   | 720                | 9            | Professional | 22160           | 95418      | 2020-03-12 01:43:10 | 2020-03-12 02:12:55 | `94615D5E57E05D48D500D27FE5CC3D221B2FE362DFAACBD80F99413923850799` | en_windows_10_consumer_editions_version_1903_updated_march_2020_x64_dvd_a8d9a641.iso      |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.18362.1139  | 1139               | 9            | Professional | 23826           | 97689      | 2020-10-06 21:01:42 | 2020-10-06 21:36:00 | `C2D4762B3155F1076B8C0C76ABFBE9EB6AAE2AEB4E7528FDE7107CC1900DE581` | en_windows_10_consumer_editions_version_1903_updated_oct_2020_x64_dvd_e56b75b2.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.18362.1082  | 1082               | 9            | Professional | 23653           | 97411      | 2020-09-07 03:19:25 | 2020-09-07 03:53:37 | `3CB0776EA89816083A42C71E98D33A2058906334FC5B509076CF311E2D4D40AD` | en_windows_10_consumer_editions_version_1903_updated_sep_2020_x64_dvd_91c917fd.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.18362.356   | 356                | 9            | Professional | 21236           | 93430      | 2019-09-09 12:59:55 | 2019-09-09 13:47:28 | `0560E2840CA076EC1777C178FCD1DD200DEE0C3E712314F5146D224D1BC3EC0E` | en_windows_10_consumer_editions_version_1903_updated_sept_2019_x64_dvd_ef2f7737.iso       |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.18362.30    | 30                 | 9            | Professional | 18867           | 88688      | 2019-04-01 18:11:29 | 2019-04-01 18:47:29 | `9846DFBDD7C39EB8D025E0F28E180C6F4084ECF87ECD11805CD19C205F7A3B4E` | en_windows_10_consumer_editions_version_1903_x64_dvd_b980e68c.iso                         |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.18362.778   | 778                | 9            | Professional | 22270           | 95586      | 2020-04-10 12:21:17 | 2020-04-10 12:54:25 | `F3C56DA79FBFD193B8B82EBA69F548551707391951BDDBC6FDC378D76E99D104` | en_windows_10_consumer_editions_version_1909_updated_april_2020_x64_dvd_aa12b363.iso      |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.18362.1500  | 1500               | 9            | Professional | 26611           | 100921     | 2021-04-09 18:19:52 | 2021-04-09 18:49:30 | `BA37B291093E8F42E2CC750EBA7DC585C6EF290C602BB26AEC81FC2C5F7D93B7` | en_windows_10_consumer_editions_version_1909_updated_april_2021_x64_dvd_252bf2a7.iso      |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.18362.1016  | 1016               | 9            | Professional | 23461           | 97116      | 2020-08-06 23:13:56 | 2020-08-06 23:45:56 | `B5C896443775B249973B735AB09A577EB83AE80969737799CD8CD821B29460FC` | en_windows_10_consumer_editions_version_1909_updated_aug_2020_x64_dvd_1db8e91e.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.18362.535   | 535                | 9            | Professional | 21691           | 94267      | 2019-12-04 20:23:58 | 2019-12-04 21:03:27 | `844DC9BDE166D7F92E20D81C5A33A88D72C689B2020AD0196542BAB6B02CFEBC` | en_windows_10_consumer_editions_version_1909_updated_dec_2019_x64_dvd_001f73f0.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.18362.1256  | 1256               | 9            | Professional | 24072           | 98174      | 2020-12-03 19:20:47 | 2020-12-03 19:55:56 | `9955649E536D902702C6BB2CBAB1449870A9B1BE50871CC220B2BCF5A9153422` | en_windows_10_consumer_editions_version_1909_updated_dec_2020_x64_dvd_352851c3.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.18362.657   | 657                | 9            | Professional | 21929           | 94720      | 2020-02-09 15:14:13 | 2020-02-09 15:52:54 | `1B821D815AC239D21DDA734D00C077EDB1F228A993317E2DFC3AFB17A15CA366` | en_windows_10_consumer_editions_version_1909_updated_feb_2020_x64_dvd_527ad800.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.18362.1379  | 1379               | 9            | Professional | 26350           | 100881     | 2021-02-10 21:26:18 | 2021-02-10 21:59:47 | `613C08A6BA2D5E5BD494AFE431936C11B63D9B63C36AB6F156AABCE6DDDCE1B5` | en_windows_10_consumer_editions_version_1909_updated_feb_2021_x64_dvd_c0a5de88.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.18362.592   | 592                | 9            | Professional | 21756           | 94402      | 2020-01-09 16:35:19 | 2020-01-09 17:12:17 | `E303E2D3317C83003824FFAC153302354661EFE1A2B7433524863CBAAEE1F7F2` | en_windows_10_consumer_editions_version_1909_updated_jan_2020_x64_dvd_e05d4037.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.18362.1316  | 1316               | 9            | Professional | 30077           | 117840     | 2021-01-12 22:49:26 | 2021-01-12 23:29:58 | `88A92DFE7AE9B8F953C13C8741C98C5577CFD0CCBE80224188B2965363BB146B` | en_windows_10_consumer_editions_version_1909_updated_jan_2021_x64_dvd_4f6fb6d8.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.18362.959   | 959                | 9            | Professional | 23368           | 96952      | 2020-07-10 14:07:21 | 2020-07-10 15:11:15 | `4897AD5AB28523EC1F2B7BDA3A2EAAA6C5382FCD3A940E47D3C6DA0A60CCABF9` | en_windows_10_consumer_editions_version_1909_updated_july_2020_x64_dvd_0da960fb.iso       |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.18362.1621  | 1621               | 9            | Professional | 26835           | 101188     | 2021-06-07 06:42:57 | 2021-06-07 07:16:25 | `BDC95F1CED5B6CBA1D87C5C5BA5C790B1A7DF746DCEA954318601F393176F63E` | en_windows_10_consumer_editions_version_1909_updated_jun_2021_x64_dvd_97c0468a.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.18362.900   | 900                | 9            | Professional | 23275           | 96801      | 2020-06-06 14:20:25 | 2020-06-06 14:54:05 | `CDE61B69EC2713B4AD0EB438EAA04A55FDB9722E8F21FD0EBBADD203F0BCE6E4` | en_windows_10_consumer_editions_version_1909_updated_june_2020_x64_dvd_1e33c8f2.iso       |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.18362.720   | 720                | 9            | Professional | 22160           | 95430      | 2020-03-12 01:43:41 | 2020-03-12 02:15:51 | `CAB5BE59A3FE5D2C9229F36B032686351A7CD758858FE08B09A6DE48ACFDD2E0` | en_windows_10_consumer_editions_version_1909_updated_march_2020_x64_dvd_36df0e75.iso      |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.18362.1440  | 1440               | 9            | Professional | 26431           | 101080     | 2021-03-05 22:17:57 | 2021-03-05 22:49:38 | `D86D659E595FCFDB902468438D5114768D2F6392D3DD81010E88FC9A7FA5C2E2` | en_windows_10_consumer_editions_version_1909_updated_march_2021_x64_dvd_0f72d788.iso      |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.18362.836   | 836                | 9            | Professional | 22888           | 96349      | 2020-05-08 17:03:15 | 2020-05-08 17:36:03 | `E6E7501F9DA5827ED0AF46C8C640075BEF769C742B7E8163510A440936EE4AD6` | en_windows_10_consumer_editions_version_1909_updated_may_2020_x64_dvd_4b329408.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.18362.1556  | 1556               | 9            | Professional | 26671           | 101010     | 2021-05-04 17:37:43 | 2021-05-04 18:11:19 | `466C9027AD7B7C9FF13E67EB57EC8A5312603ACEABA50F504489A65F850620D1` | en_windows_10_consumer_editions_version_1909_updated_may_2021_x64_dvd_4572c5a7.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.18362.1198  | 1198               | 9            | Professional | 23935           | 97978      | 2020-11-03 14:02:11 | 2020-11-03 14:37:10 | `F038D418733DE7430057BBBE7432EA068A21E1B8E68E4D58D9B9BBC7D76A1B89` | en_windows_10_consumer_editions_version_1909_updated_nov_2020_x64_dvd_f30b5ef9.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.18362.1139  | 1139               | 9            | Professional | 23826           | 97701      | 2020-10-08 01:41:43 | 2020-10-08 02:16:44 | `48243FB4B44DEC2E8A19E97C0186FF1EF3E3BDC10C774D256558E658415A9BB0` | en_windows_10_consumer_editions_version_1909_updated_oct_2020_x64_dvd_809597f2.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.18362.1082  | 1082               | 9            | Professional | 23653           | 97423      | 2020-09-07 03:27:10 | 2020-09-07 04:01:23 | `7669BE589555D6DCE62684FAEE36C9996594B91EE31DA43BD4081AE1D8113D03` | en_windows_10_consumer_editions_version_1909_updated_sep_2020_x64_dvd_c2cf83f3.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.18362.418   | 418                | 9            | Professional | 21509           | 93930      | 2019-10-06 22:07:22 | 2019-10-06 22:49:52 | `01BF1EB643F7E50D0438F4F74FB91468D35CDE2C82B07ABC1390D47FC6A356BE` | en_windows_10_consumer_editions_version_1909_x64_dvd_be09950e.iso                         |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.19041.1165  | 1165               | 9            | Professional | 27188           | 100144     | 2021-08-01 03:39:02 | 2021-08-01 04:27:44 | `610E8DE87D9CB2F0C8F54A7E553C033B0B234F4BA84E509DE176D25CCF5E6862` | en-us_windows_10_consumer_editions_version_20h2_updated_aug_2021_x64_dvd_0cf352e2.iso     |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.19041.1415  | 1415               | 9            | Professional | 27420           | 100154     | 2021-12-10 07:50:02 | 2021-12-10 08:28:13 | `BB5420C4E5B7D223F12A55E583F534C9E4C55DF3343AFDEFC03E374E3D3453A6` | en-us_windows_10_consumer_editions_version_20h2_updated_dec_2021_x64_dvd_1dfddd0e.iso     |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.19041.1348  | 1348               | 9            | Professional | 27321           | 100049     | 2021-11-03 16:27:04 | 2021-11-03 17:35:20 | `2939C032C3BF55BB1221A765330B1B2A642FE5537D456A4AB1A1F393E695F272` | en-us_windows_10_consumer_editions_version_20h2_updated_nov_2021_x64_dvd_31086ccd.iso     |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.19041.1288  | 1288               | 9            | Professional | 27284           | 99942      | 2021-10-06 01:54:30 | 2021-10-06 02:55:36 | `4AE3185A49BDF89C4FD51BB378702AB12FB739BE5FC2A9B5144FB55E5C08C7AF` | en-us_windows_10_consumer_editions_version_20h2_updated_october_2021_x64_dvd_82c82fcd.iso |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.19041.1237  | 1237               | 9            | Professional | 27211           | 99809      | 2021-09-13 00:12:36 | 2021-09-13 03:04:27 | `3E4228DD36699A899759AE8DC957A305DB2CEEA96C924AE97034EA77C1A34320` | en-us_windows_10_consumer_editions_version_20h2_updated_sep_2021_x64_dvd_3c140bb1.iso     |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.19041.1165  | 1165               | 9            | Professional | 26637           | 99284      | 2021-08-03 14:48:05 | 2021-08-03 15:26:04 | `082AB04571D8769F48124536D238C92F048E24A77B21532B2AC3753EA7C68354` | en-us_windows_10_consumer_editions_version_21h1_updated_aug_2021_x64_dvd_00b6a9c2.iso     |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.19041.1165  | 1165               | 9            | Professional | 26636           | 99249      | 2021-08-02 20:15:29 | 2021-08-02 20:48:48 | `317358DF3AB7FD015E9A2E26DA72D83CD02425325AD1B59BB85A0FB7287C09B8` | en-us_windows_10_consumer_editions_version_2004_updated_aug_2021_x64_dvd_4f154f0a.iso     |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.19041.1110  | 1110               | 9            | Professional | 26509           | 98754      | 2021-07-10 13:33:49 | 2021-07-10 14:09:43 | `4FEBBFC656E1A3500E8DB7D1AEBB29346135618B71552B1F60B42F27CED05EEF` | en-us_windows_10_consumer_editions_version_2004_updated_jul_2021_x64_dvd_af7e85b6.iso     |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.19041.1348  | 1348               | 9            | Professional | 26796           | 99465      | 2021-11-03 19:49:09 | 2021-11-03 20:25:35 | `D71DFDF8E3D0398008A1C7D801DE3BA19E2ACED596E2F0430A0AA60F99E32350` | en-us_windows_10_consumer_editions_version_2004_updated_nov_2021_x64_dvd_6278c8ec.iso     |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.19041.1288  | 1288               | 9            | Professional | 26759           | 99358      | 2021-10-06 02:44:04 | 2021-10-06 05:39:30 | `31DDD4E9C72D8C41A9B871C71060B55372A83593B9DA9623814ACE6F3CAB67FC` | en-us_windows_10_consumer_editions_version_2004_updated_october_2021_x64_dvd_36236115.iso |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.19041.1237  | 1237               | 9            | Professional | 26688           | 99241      | 2021-09-13 00:31:31 | 2021-09-13 02:22:10 | `975E4D8A2B9C1185B1701D8305DCD904553FDBE71A7C0E913F51FB52DD3BE36D` | en-us_windows_10_consumer_editions_version_2004_updated_sep_2021_x64_dvd_f856a002.iso     |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.17134.706   | 706                | 9            | Professional | 22937           | 115724     | 2019-04-05 05:54:11 | 2019-04-05 06:43:45 | `496C031803AD705D84DF4650C03F0E9E231E116FCC830D5DFAF7AED983FDAA4E` | en_windows_10_consumer_edition_version_1803_updated_april_2019_x64_dvd_62bc11eb.iso       |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.17134.285   | 285                | 9            | Professional | 22616           | 113627     | 2018-09-11 15:36:03 | 2018-09-11 16:18:17 | `14689D5E6A2BEE2679F325C043233955BD4A708A05D8F61C05E6CD1A50DDBFBA` | en_windows_10_consumer_edition_version_1803_updated_sep_2018_x64_dvd_69339216.iso         |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.17763.437   | 437                | 9            | Professional | 22335           | 101904     | 2019-04-05 05:00:05 | 2019-04-05 05:43:18 | `BD060315039501043E62C49B364330E24388BE5CB0EB80A8078F025DB809D07D` | en_windows_10_consumer_edition_version_1809_updated_april_2019_x64_dvd_b6a14039.iso       |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.17763.316   | 316                | 9            | Professional | 21169           | 96562      | 2019-02-13 00:17:36 | 2019-02-13 00:52:34 | `216D0BB3B8E5F0328B833E0D8320D2763863F7042283CAA1BFD400E2ED837FF0` | en_windows_10_consumer_edition_version_1809_updated_feb_2019_x64_dvd_258dbd0b.iso         |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.17763.557   | 557                | 9            | Professional | 22746           | 103281     | 2019-06-11 20:41:25 | 2019-06-11 21:21:25 | `6A05E165D14A26ED5A9D44562E8041F95DA1D36ED71631D106084B0FF9689D08` | en_windows_10_consumer_edition_version_1809_updated_june_2019_x64_dvd_0251142c.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.19041.928   | 928                | 9            | Professional | 26129           | 98190      | 2021-04-09 08:48:49 | 2021-04-09 09:30:22 | `9331692F81018506AC68A882AF2D055A5B1EECB2D912398A49CACD4A0D9F87B8` | en_windows_10_consumer_editions_version_2004_updated_april_2021_x64_dvd_cee44b00.iso      |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.19041.450   | 450                | 9            | Professional | 21924           | 92479      | 2020-08-08 03:27:39 | 2020-08-08 04:02:42 | `35E69B782964CE5DF3BDF0E8C9608D54CBF9E5023FBCFA09738F25625EC5F571` | en_windows_10_consumer_editions_version_2004_updated_aug_2020_x64_dvd_bbdef22a.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.19041.685   | 685                | 9            | Professional | 23690           | 95313      | 2020-12-03 19:09:33 | 2020-12-03 19:48:56 | `BB05E9996DAD833FC563E66AFC834981CD3CF87EF8D446A36091583E988318F8` | en_windows_10_consumer_editions_version_2004_updated_dec_2020_x64_dvd_230c77b0.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.19041.804   | 804                | 9            | Professional | 25848           | 98055      | 2021-02-04 20:30:28 | 2021-02-04 21:05:05 | `37E450967D5BBD99190ECF4F0EC22A2B941AE39985AF0522387F80DBBD68BD93` | en_windows_10_consumer_editions_version_2004_updated_feb_2021_x64_dvd_f42b7d6d.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.19041.746   | 746                | 9            | Professional | 25741           | 97757      | 2021-01-09 19:38:31 | 2021-01-09 20:16:55 | `F368B819FF2E721F633F6B7279C565A51BF1DF9037E9D68761834EA2ED50356B` | en_windows_10_consumer_editions_version_2004_updated_jan_2021_x64_dvd_58fc6459.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.19041.388   | 388                | 9            | Professional | 21164           | 90229      | 2020-07-10 13:26:02 | 2020-07-10 14:13:13 | `08B5BE3583D5472EE5B6E47DA5B59F584EA6D477762290ABA57B557B25485B35` | en_windows_10_consumer_editions_version_2004_updated_july_2020_x64_dvd_1c07cb8d.iso       |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.19041.1052  | 1052               | 9            | Professional | 26451           | 98666      | 2021-06-06 14:57:02 | 2021-06-06 15:36:55 | `B3A2D9DE0979916DAAE23BC48ADB458C2ED5EB3B1EBF0932108245C756189BD4` | en_windows_10_consumer_editions_version_2004_updated_jun_2021_x64_dvd_78188174.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.19041.329   | 329                | 9            | Professional | 20962           | 89847      | 2020-06-04 16:14:42 | 2020-06-04 16:51:31 | `87131671278D739DC65050A67D1D961C3CE644A5241EAA53378E22A3EE8ACD9C` | en_windows_10_consumer_editions_version_2004_updated_june_2020_x64_dvd_2b080599.iso       |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.19041.867   | 867                | 9            | Professional | 25951           | 98286      | 2021-03-05 13:54:23 | 2021-03-05 14:29:05 | `565C11A7CC065CDD4041E1A88BC91059A10C45E7F55A3C17F4EED0F57F22CE78` | en_windows_10_consumer_editions_version_2004_updated_march_2021_x64_dvd_2d7423d8.iso      |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.19041.264   | 264                | 9            | Professional | 20445           | 89139      | 2020-05-11 00:50:14 | 2020-05-11 01:27:04 | `A9EFD2329ED805A6A58E0E0101F9B22AD4031E80E2C663C571CD004DB26D2F31` | en_windows_10_consumer_editions_version_2004_updated_may_2020_x64_dvd_36d61c40.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.19041.985   | 985                | 9            | Professional | 26233           | 98372      | 2021-05-05 00:26:53 | 2021-05-05 01:06:48 | `C958971C080176C28AC0797BA96A834DBD4A1C4A2E6610C223A1E30756D9DD62` | en_windows_10_consumer_editions_version_2004_updated_may_2021_x64_dvd_64a5b057.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.19041.630   | 630                | 9            | Professional | 23536           | 95091      | 2020-11-06 12:35:55 | 2020-11-06 13:14:41 | `907623D94F5122FD8F13DA79B4BE7BEBE72A81E7DE5E3D164CD6A9C7BB7F44D0` | en_windows_10_consumer_editions_version_2004_updated_nov_2020_x64_dvd_d4d1b40c.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.19041.572   | 572                | 9            | Professional | 23399           | 94838      | 2020-10-09 15:58:24 | 2020-10-09 16:39:26 | `2BC6FDEA71FDCEA183873BF0716DBCEAC01AB4422CC4EB5F793B6EFB51F22E77` | en_windows_10_consumer_editions_version_2004_updated_oct_2020_x64_dvd_25512d0f.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.19041.508   | 508                | 9            | Professional | 22402           | 93360      | 2020-09-06 23:00:24 | 2020-09-06 23:40:07 | `016A28C7979050E4F8689915C5149F76E4ADB05E6D82FBF5AF51F4C9FB32D4D8` | en_windows_10_consumer_editions_version_2004_updated_sep_2020_x64_dvd_4c07c420.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.19041.208   | 208                | 9            | Professional | 20331           | 92334      | 2020-04-20 16:02:31 | 2020-04-20 16:43:05 | `24E59806398203BFDCD17520F30D94CCF53917FF24C3584AA1E748920038A9C4` | en_windows_10_consumer_editions_version_2004_x64_dvd_8d28c5d7.iso                         |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.16299.15    | 15                 | 9            | Professional | 21469           | 107842     | 2017-09-29 09:49:04 | 2017-12-14 00:52:06 | `966167FB412AC93C91F94EE19A9EFD30DE90CD7EC26D5D546E174B3A5064EE8C` | en_windows_10_multi-edition_version_1709_updated_dec_2017_x64_dvd_100406711.iso           |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.16299.15    | 15                 | 9            | Professional | 21224           | 105992     | 2017-09-29 09:49:04 | 2017-11-09 20:16:16 | `58C6D196B4512F37D1F354C5C9EADA054EF021B64A8F4463DBB3231F6F0EC0BA` | en_windows_10_multi-edition_version_1709_updated_nov_2017_x64_dvd_100290211.iso           |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.16299.15    | 15                 | 9            | Professional | 20444           | 101278     | 2017-09-29 09:49:04 | 2017-09-29 10:13:38 | `2DB4CD9934EE41C25C382A9B7AC361085D1CC0CD45F7651B5C0ADFBC418C8CE5` | en_windows_10_multi-edition_version_1709_updated_sept_2017_x64_dvd_100090817.iso          |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.10586.0     | 0                  | 9            | Professional | 20564           | 105226     | 2016-04-27 02:27:58 | 2016-04-27 02:28:36 | `C08D0636B52D56110367122B75428D6188C1C7AA7B0CC166172BBFE99C4C3661` | en_windows_10_multiple_editions_version_1511_updated_apr_2016_x64_dvd_8705583.iso         |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.17134.228   | 228                | 9            | Professional | 22469           | 112577     | 2018-08-15 16:23:56 | 2018-08-15 17:05:27 | `2F48A8A8339F201853F706CA24B1EFF4E7AB50308E67706C9B0995B601F9243C` | en_windows_10_consumer_edition_version_1803_updated_aug_2018_x64_dvd_f2764cf8.iso         |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.17763.1098  | 1098               | 9            | Professional | 26064           | 113330     | 2020-03-06 20:51:50 | 2020-03-06 21:31:12 | `DBF2AFDAB0E3D72AA79235DC181F2A7CD70F91FE5C6646386E4D8CECEA027F10` | en_windows_10_consumer_editions_version_1809_updated_march_2020_x64_dvd_274d94cd.iso      |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.17763.1282  | 1282               | 9            | Professional | 27140           | 115907     | 2020-06-06 16:47:25 | 2020-06-06 17:20:25 | `BFD5207C14E169FBCB3208284E608FE63C0872B45128B41241BA67095FD16F5B` | en_windows_10_consumer_editions_version_1809_updated_june_2020_x64_dvd_7ad5cb9e.iso       |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.18362.1016  | 1016               | 9            | Professional | 23461           | 97104      | 2020-08-06 17:34:20 | 2020-08-06 18:06:42 | `CDCDA166058777EF93B910B60E55071CFB8B5E30ACD46B0030BCE4391607E807` | en_windows_10_consumer_editions_version_1903_updated_aug_2020_x64_dvd_df7687ba.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.17763.379   | 379                | 9            | Professional | 21810           | 99201      | 2019-03-12 02:16:35 | 2019-03-12 02:56:58 | `009ECA8401938643801E74DDFCD65D3E600B27DB93E4615368FA83C4964D1E7C` | en_windows_10_consumer_editions_version_1809_updated_march_2019_x64_dvd_72376bfd.iso      |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.17763.1339  | 1339               | 9            | Professional | 27224           | 116143     | 2020-07-10 15:26:12 | 2020-07-10 15:58:35 | `BBC2FDDC326971D7D1315B81BA35E8AA199E8D1ADF46D2F23F17145A7EC7368F` | en_windows_10_consumer_editions_version_1809_updated_july_2020_x64_dvd_47ec1f58.iso       |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.17763.615   | 615                | 9            | Professional | 23102           | 104234     | 2019-07-09 16:32:25 | 2019-07-09 17:14:37 | `9BF76F3EDB82AC21CCF9BF6E30E0592F1AE35A84AAE6FDAB55E7C1167C21ABBB` | en_windows_10_consumer_editions_version_1809_updated_july_2019_x64_dvd_3c496b49.iso       |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.18362.476   | 476                | 9            | Professional | 21665           | 94219      | 2019-11-07 18:18:58 | 2019-11-07 18:56:49 | `082C37E8B3B550DED3C868D4D7626F5FA55B9482B8183DA796ABB49923969F9C` | en_windows_10_consumer_editions_version_1903_updated_nov_2019_x64_dvd_24cb9de7.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.18362.836   | 836                | 9            | Professional | 22888           | 96337      | 2020-05-07 14:50:02 | 2020-05-07 15:45:21 | `6AE6F498574328FDFC465E35B0CE27B089EDE29CBE2D29757CFB2A8A7CC1AFB9` | en_windows_10_consumer_editions_version_1903_updated_may_2020_x64_dvd_90e49fbc.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.18362.1198  | 1198               | 9            | Professional | 23935           | 97966      | 2020-11-03 14:07:39 | 2020-11-03 14:41:36 | `1AB418D43B409B1A18E743B536CF4356D9E28F0C4A9FC9C9FBBFEDC6C0107CB2` | en_windows_10_consumer_editions_version_1903_updated_nov_2020_x64_dvd_e68934e7.iso        |
-| Windows 10 Pro | Windows 10 Pro    | 10.0.19041.1110  | 1110               | 9            | Professional | 27061           | 99651      | 2021-07-10 13:39:17 | 2021-07-10 14:17:01 | `0CA9E6296E05345693EE5BA3BA6329052801EEA0097D22512907C50A93495658` | en-us_windows_10_consumer_editions_version_20h2_updated_jul_2021_x64_dvd_b82a9b15.iso     |
-
-## Windows Server
-
-* Tables will return when more work is done, stay tuned
+| OperatingSystem_Version_Type_YYYYMMDD(ReleaseDate)_BuildNumber |
+|---|
+| W10_1507_Pro_20150729_10240 |
+| W10_1511_Enterprise_20160209_10586.104 |
+| W10_1511_Pro_10586.0 |
+| W10_1511_Pro_20160308_10586.164 |
+| W10_1607_Pro_20161108_14393.447 |
+| W10_1703_Pro_20170320_15063.0 |
+| W10_1703_Pro_20170613_15063.413 |
+| W10_1703_Pro_20170711_15063.483 |
+| W10_1709_Pro_16299.64 |
+| W10_1709_Pro_20171114_16299.15 |
+| W10_1709_Pro_20171114_16299.64 |
+| W10_1709_Pro_20171212_16299.125 |
+| W10_1803_Pro_17134.1 |
+| W10_1803_Pro_20180612_17134.112 |
+| W10_1803_Pro_20180814_17134.228 |
+| W10_1803_Pro_20180911_17134.285 |
+| W10_1803_Pro_20190108_17134.523 |
+| W10_1803_Pro_20190312_17134.648 |
+| W10_1803_Pro_20190409_17134.706 |
+| W10_1803_Pro_20190519_17134.766 |
+| W10_1803_Pro_20190611_17134.829 |
+| W10_1803_Pro_20190709_17134.885 |
+| W10_1803_Pro_20190813_17134.950 |
+| W10_1803_Pro_20190910_17134.1006 |
+| W10_1803_Pro_TBD_17134.1 |
+| W10_1809_Pro_20181113_17763.107 |
+| W10_1809_Pro_20181211_17763.194 |
+| W10_1809_Pro_20190108_17763.253 |
+| W10_1809_Pro_20190212_17763.316 |
+| W10_1809_Pro_20190312_17763.379 |
+| W10_1809_Pro_20190409_17763.437 |
+| W10_1809_Pro_20190519_17763.504 |
+| W10_1809_Pro_20190611_17763.557 |
+| W10_1809_Pro_20190719_17763.615 |
+| W10_1809_Pro_20190813_17763.678 |
+| W10_1809_Pro_20190910_17763.737 |
+| W10_1809_Pro_20191008_17763.805 |
+| W10_1809_Pro_20191112_17763.864 |
+| W10_1809_Pro_20191210_17763.914 |
+| W10_1809_Pro_20200114_17763.973 |
+| W10_1809_Pro_20200211_17763.1039 |
+| W10_1809_Pro_20200312_17763.1098 |
+| W10_1809_Pro_20200414_17763.1158 |
+| W10_1809_Pro_20200512_17763.1217 |
+| W10_1809_Pro_20200609_17763.1282 |
+| W10_1809_Pro_20200714_17763.1339 |
+| W10_1809_Pro_20200811_17763.1397 |
+| W10_1809_Pro_20200908_17763.1457 |
+| W10_1809_Pro_20201013_17763.1518 |
+| W10_1809_Pro_20201110_17763.1577 |
+| W10_1903_Pro_18362.30 |
+| W10_1903_Pro_20190329_18362.30 |
+| W10_1903_Pro_20190611_18362.175 |
+| W10_1903_Pro_20190709_18362.239 |
+| W10_1903_Pro_20190910_18362.356 |
+| W10_1903_Pro_20191112_18362.476 |
+| W10_1903_Pro_20191210_18362.1016 |
+| W10_1903_Pro_20191210_18362.535 |
+| W10_1903_Pro_20200211_18362.657 |
+| W10_1903_Pro_20200312_18362.720 |
+| W10_1903_Pro_20200512_18362.836 |
+| W10_1903_Pro_20200714_18362.959 |
+| W10_1903_Pro_20200908_18362.1082 |
+| W10_1903_Pro_20201013_18362.1139 |
+| W10_1903_Pro_20201110_18362.1198 |
+| W10_1903_Pro_20201208_18362.1256 |
+| W10_1909_Pro_18363.418 |
+| W10_1909_Pro_20191005_18363.418 |
+| W10_1909_Pro_20191210_18363.535 |
+| W10_1909_Pro_20200114_18363.592 |
+| W10_1909_Pro_20200211_18363.657 |
+| W10_1909_Pro_20200312_18363.720 |
+| W10_1909_Pro_20200414_18363.778 |
+| W10_1909_Pro_20200512_18363.836 |
+| W10_1909_Pro_20200609_18363.900 |
+| W10_1909_Pro_20200714_18363.959 |
+| W10_1909_Pro_20200811_18363.1016 |
+| W10_1909_Pro_20200908_18363.1082 |
+| W10_1909_Pro_20201013_18363.1139 |
+| W10_1909_Pro_20201110_18363.1198 |
+| W10_1909_Pro_20201208_18363.1256 |
+| W10_1909_Pro_20210112_18363.1316 |
+| W10_1909_Pro_20210211_18363.1379 |
+| W10_1909_Pro_20210309_18363.1440 |
+| W10_1909_Pro_20210413_18363.1500 |
+| W10_1909_Pro_20210511_18363.1556 |
+| W10_1909_Pro_20210608_18363.1621 |
+| W10_2004_Pro_20200416_19041.208 |
+| W10_2004_Pro_20200527_19041.264 |
+| W10_2004_Pro_20200609_19041.329 |
+| W10_2004_Pro_20200714_19041.388 |
+| W10_2004_Pro_20200811_19041.450 |
+| W10_2004_Pro_20200908_19041.508 |
+| W10_2004_Pro_20201013_19041.572 |
+| W10_2004_Pro_20201110_19041.630 |
+| W10_2004_Pro_20201208_19041.685 |
+| W10_2004_Pro_20210112_19041.746 |
+| W10_2004_Pro_20210209_19041.804 |
+| W10_2004_Pro_20210309_19041.867 |
+| W10_2004_Pro_20210413_19041.928 |
+| W10_2004_Pro_20210511_19041.985 |
+| W10_2004_Pro_20210608_19041.1052 |
+| W10_2004_Pro_20210713_19041.1110 |
+| W10_2004_Pro_20210810_19041.1165 |
+| W10_2004_Pro_20210914_19041.1237 |
+| W10_2004_Pro_20211012_19041.1288 |
+| W10_2004_Pro_20211109_19041.1348 |
+| W10_20H2_Pro_19042.631 |
+| W10_20H2_Pro_20200908_19041.508 |
+| W10_20H2_Pro_20201119_19041.631 |
+| W10_20H2_Pro_20201208_19041.685 |
+| W10_20H2_Pro_20210112_19041.746 |
+| W10_20H2_Pro_20210209_19041.804 |
+| W10_20H2_Pro_20210309_19041.867 |
+| W10_20H2_Pro_20210413_19041.928 |
+| W10_20H2_Pro_20210511_19041.985 |
+| W10_20H2_Pro_20210608_19041.1052 |
+| W10_20H2_Pro_20210713_19041.1110 |
+| W10_20H2_Pro_20210810_19041.1165 |
+| W10_20H2_Pro_20210914_19041.1237 |
+| W10_20H2_Pro_20211012_19041.1288 |
+| W10_20H2_Pro_20211109_19041.1348 |
+| W10_20H2_Pro_20211214_19041.1415 |
+| W10_20H2_Pro_20220111_19042.1466 |
+| W10_20H2_Pro_20220215_19042.1526 |
+| W10_20H2_Pro_20220315_19042.1586 |
+| W10_20H2_Pro_20220419_19042.1645 |
+| W10_21H1_20220315_19041.1586 |
+| W10_21H1_Pro_19043.928 |
+| W10_21H1_Pro_20210413_19043.928 |
+| W10_21H1_Pro_20210608_19043.1052 |
+| W10_21H1_Pro_20210713_19043.1110 |
+| W10_21H1_Pro_20210810_19043.1165 |
+| W10_21H1_Pro_20210914_19043.1237 |
+| W10_21H1_Pro_20211012_19043.1288 |
+| W10_21H1_Pro_20211109_19043.1348 |
+| W10_21H1_Pro_20211214_19043.1415 |
+| W10_21H1_Pro_20220111_19043.1466 |
+| W10_21H1_Pro_20220215_19043.1526 |
+| W10_21H1_Pro_20220315_19043.1586 |
+| W10_21H1_Pro_20220419_19043.1645 |
+| W10_21H1_Pro_20220517_19043.1706 |
+| W10_21H2_20220315_19041.1586 |
+| W10_21H2_Pro_19044.1288 |
+| W10_21H2_Pro_20211012_19044.1288 |
+| W10_21H2_Pro_20211214_19044.1415 |
+| W10_21H2_Pro_20220111_19044.1466 |
+| W10_21H2_Pro_20220215_19044.1526 |
+| W10_21H2_Pro_20220315_19044.1586 |
+| W10_21H2_Pro_20220419_19044.1645 |
+| W10_21H2_Pro_20220517_19044.1706 |
+| W11_21H2_20220315_22000.556 |
+| W11_21H2_Pro_20210916_22000.194 |
+| W11_21H2_Pro_20211109_22000.318 |
+| W11_21H2_Pro_20211214_22000.376 |
+| W11_21H2_Pro_20220111_22000.434 |
+| W11_21H2_Pro_20220215_22000.493 |
+| W11_21H2_Pro_20220315_22000.556 |
+| W11_21H2_Pro_20220419_22000.613 |
+| W11_21H2_Pro_20220517_22000.675 |
+| W11_Dev_Pro_20210620_21996.1 |
+| W11_Dev_Pro_20210909_22454.1000 |
+| WindowsServer2016_1607_Standard_20161012_14393.0 |
+| WindowsServer2016_1607_Standard_20161108_14393.447 |
+| WindowsServer2016_1607_Standard_20171114_14393.1884 |
+| WindowsServer2019_1809_Standard_20181113_17763.107 |
+| WindowsServer2019_1809_Standard_20190312_17763.379 |
+| WindowsServer2019_1809_Standard_20190813_17763.678 |
+| WindowsServer2019_1809_Standard_20190910_17763.737 |
+| WindowsServer2019_1809_Standard_20191112_17763.864 |
+| WindowsServer2019_1809_Standard_20191210_17763.914 |
+| WindowsServer2019_1809_Standard_20200114_17763.973 |
+| WindowsServer2019_1809_Standard_20200211_17763.1039 |
+| WindowsServer2019_1809_Standard_20200310_17763.1098 |
+| WindowsServer2019_1809_Standard_20200414_17763.1158 |
+| WindowsServer2019_1809_Standard_20200512_17763.1217 |
+| WindowsServer2019_1809_Standard_20200609_17763.1282 |
+| WindowsServer2019_1809_Standard_20200714_17763.1339 |
+| WindowsServer2019_1809_Standard_20200811_17763.1397 |
+| WindowsServer2019_1809_Standard_20200910_17763.1457 |
+| WindowsServer2019_1809_Standard_20201013_17763.1518 |
+| WindowsServer2019_1809_Standard_20201110_17763.1577 |
+| WindowsServer2019_1809_Standard_20201208_17763.1637 |
+| WindowsServer2019_1809_Standard_20210112_17763.1697 |
+| WindowsServer2019_1809_Standard_20210209_17763.1757 |
+| WindowsServer2019_1809_Standard_20210309_17763.1817 |
+| WindowsServer2019_1809_Standard_20210413_17763.1879 |
+| WindowsServer2019_1809_Standard_20210511_17763.1935 |
+| WindowsServer2019_1809_Standard_20210608_17763.1999 |
+| WindowsServer2019_1809_Standard_20210713_17763.2061 |
+| WindowsServer2019_1809_Standard_20210810_17763.2114 |
+| WindowsServer2022_21H2_Standard_20211208_20348.405 |
+| WindowsServer2022_21H2_Standard_20220215_20348.524 |
+| WindowsServer2022_21H2_Standard_20220215_20348.587 |
+| WindowsServer2022_21H2_Standard_20220419_20348.643 |
+| WindowsServer2022_21H2_Standard_20220517_20348.707 |
