@@ -27,3 +27,7 @@ This command was expertly crafted by [Nasreddine Bencherchali](https://twitter.c
 Have you ever wanted to know the hash of a Windows-native file for a given version to compare with what you're seeing as possibly suspicious on a system you're analyzing? Have you ever wanted to know where Windows-native executables reside for a given version of Windows? Have you ever wanted to make your own hash set but didn't want to generate the dataset yourself? 
 
 These are but a few use cases for this repo! If you have more use cases, let us know and we can add them here! Or, do a Pull Request with your use case to this README.
+
+## ChangeLog
+
+2022-08-31 - SHA1 hashes were added (https://github.com/AndrewRathbun/VanillaWindowsReference/issues/2)
