@@ -8,6 +8,16 @@ VanillaWindowsReference is a repo that contains recursive directory listings of 
 
 Each CSV will have a `test.csv` and `PsExec_IgnoreThisFile_ResearchTool.exe` that are to be ignored. `test.csv` is the output of the CSV you're looking at which is later renamed to accurately describe which Windows OS the CSV was generated from. PsExec was used to escalate privileges to hash as many files as possible during the generation of the directory listing. 
 
+## PowerShell Command
+
+In order to generate the CSV and the SystemInfo output, the following command can be used:
+
+```cmd
+C:\PsExec_IgnoreThisFile_ResearchTool.exe -accepteula -i -s cmd.exe /c powershell.exe "Get-ChildItem -Recurse 'C:\' | Where-Object { ! $_.PSIsContainer } | Select-Object DirectoryName, Name, FullName, Length, @{ N = 'CreationTimeUtc'; E = { (Get-Date -Format 's' $_.CreationTimeUtc).Replace('T', ' ') } }, @{ N = 'LastAccessTimeUtc'; E = { (Get-Date -Format 's' $_.LastAccessTimeUtc).Replace('T', ' ') } }, @{ N = 'LastWriteTimeUtc'; E = { (Get-Date -Format 's' $_.LastWriteTimeUtc).Replace('T', ' ') } }, Attributes, @{ N = 'MD5'; E = { (Get-FileHash $_.FullName -Algorithm MD5).Hash } }, @{ N = 'SHA1'; E = { (Get-FileHash $_.FullName -Algorithm SHA1).Hash } }, @{ N = 'SHA256'; E = { (Get-FileHash $_.FullName -Algorithm SHA256).Hash } }, @{ N = 'Sddl'; E = { (Get-Acl $_.FullName).Sddl } } | Export-Csv C:\test.csv -NoTypeInformation; systeminfo > C:\SystemInfo_.txt"
+```
+
+This command was expertly crafted by [Nasreddine Bencherchali](https://twitter.com/nas_bench). Huge thanks to him!
+
 ## CSV Preview
 
 ![W11CSVTimelineExplorerPreview](https://github.com/AndrewRathbun/VanillaWindowsReference/blob/main/SupportingFiles/W11CSVTimelineExplorerPreview.gif?raw=true)
